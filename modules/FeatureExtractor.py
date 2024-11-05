@@ -3,7 +3,7 @@ import numpy as np
 from statsmodels.tsa.seasonal import seasonal_decompose
 
 class FeatureExtractor:
-    def __init__(self, df, target_col):
+    def __init__(self, df, target_col, lags=[1, 3, 7, 28], windows=[1, 3, 7, 28]):
         self.df = df.copy()
         self.target_col = target_col
         
