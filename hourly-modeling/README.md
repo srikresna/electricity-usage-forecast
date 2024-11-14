@@ -77,34 +77,34 @@
 
 ### LSTM
 
-![alt text](image-19.png)
+![alt text](img/image-19.png)
 
 ### BIDIRECTIONAL LSTM
 
-![alt text](image-16.png)
+![alt text](img/image-16.png)
 
 ### LSTM - ATTENTION MECHANISM 
 
-![alt text](image-17.png)
+![alt text](img/image-17.png)
 
 ### BIDIRECTIONAL LSTM - ATTENTION MECHANISM
 
-![alt text](image-18.png)
+![alt text](img/image-18.png)
 
 ## Dataset pengguna hourly + meteostat + fitur ekstraksi
 
 ### LSTM
 
-![alt text](image-22.png)
+![alt text](img/image-22.png)
 
 ### BIDIRECTIONAL LSTM
 
-![alt text](image-19.png)
+![alt text](img/image-19.png)
 
 ### LSTM - ATTENTION MECHANISM 
 
-![alt text](image-20.png)
+![alt text](img/image-20.png)
 
 ### BIDIRECTIONAL LSTM - ATTENTION MECHANISM
 
-![alt text](image-21.png)
+![alt text](img/image-21.png)
